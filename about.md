@@ -17,7 +17,7 @@ permalink: /about/
         <div class="highlight">
         <pre>
           
-          ---
+          --- email: ctalmadg@live.unc.edu
         </pre>
         </div>
 
