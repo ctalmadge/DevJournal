@@ -36,10 +36,6 @@ permalink: /about/
 </div>
 <p><br /></p>
 
-  <div class="manual manual-title">
-  Create Pages
-  </div>
-<p>  <div class="manual-content">
 
       
 
