@@ -1,3 +1,9 @@
+---
+layout: page
+title: Task4
+permalink: /Task4/
+---
+
 # task 4
 
 The first script runs a series of questions that prompt the user for a response. 

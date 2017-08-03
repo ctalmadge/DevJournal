@@ -1,3 +1,9 @@
+---
+layout: page
+title: Task3
+permalink: /Task3/
+---
+
 # Task 3
 
 This was an in-class writing assignment I did for my other Summer class.
