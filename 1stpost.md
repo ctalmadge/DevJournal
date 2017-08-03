@@ -1,3 +1,9 @@
+---
+layout: page
+title: 1st post
+permalink: /1st post/
+---
+
 # 1st post
 
 I have learned how helpful writing in markdown is through the creation of a website. 
